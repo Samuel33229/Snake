@@ -1,0 +1,10 @@
+# Size windows
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+SIZE = (SCREEN_WIDTH, SCREEN_HEIGHT)
+
+# Title
+TITLE = "Snake"
+
+# colors
+BG_COLOR = (240, 255, 240)
