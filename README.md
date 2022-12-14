@@ -6,6 +6,6 @@ Building version of the snake game in python, using Pygame
 (you lose). The player controls the direction of the snake's head (up, down, right, left) with the arrow keys and the snake's body follows. The player can't stop the
 snake's direction while the game is running.
 
-Below is one image about the game👇
+Below is one imeage about the game👇
 
-<image src="screenshots\captura1.png" alt="snake">
+<image src="screenshots\captura(1).png" alt="snake">
